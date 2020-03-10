@@ -1,5 +1,4 @@
-# passenger class
-# inherits from people
+# people class
 
-# attributes:   name
-#               passportnumber
+# attributes:
+# name

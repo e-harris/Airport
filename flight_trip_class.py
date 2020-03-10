@@ -1,15 +1,14 @@
-# flight trip class
+#Flight Trip class
 
 # origin
-# destination
+# Destination
 # list of passengers
 # plane number
 
+# need some getters nd setter:
 
+# as a user I can add a plane
+# as a User I can add a destination
+# As a user I can add a origin
 
-
-# need some getters and setters:
-
- # as a user i can add a plane
- # as a user i can add a destination
- # as a user
+# As a user I can add a Passenger to the list of passengers
