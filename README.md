@@ -1,6 +1,9 @@
 # AIRPORT exercise
 
 ## Installing
+clone SSH
+Then run run_file.py
+
 
 
 ## learning outcomes:

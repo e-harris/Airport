@@ -6,7 +6,7 @@ class Helicopter(Aircraft):
         self.number_of_blades = number_of_blades
 
 
-def helicopter():
+def create_helicopter():
     while True:
         print("Creating helicopter")
         ask1 = input("How many blades does the helicopter have? \n"
